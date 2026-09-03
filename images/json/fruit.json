@@ -16,42 +16,42 @@
 {
     "id" : 3,
     "title" : "사과",
-    "imgurl" : "images/fruit/fruit2.jpg",
+    "imgurl" : "images/fruit/fruit3.jpg",
     "content" : "새콤달콤 홍로 꿀 사과, 2kg",
     "price" : 31900
 },
 {
     "id" : 4,
     "title" : "오렌지",
-    "imgurl" : "images/fruit/fruit3.jpg",
+    "imgurl" : "images/fruit/fruit4.jpg",
     "content" : "달콤한 고당도 오렌지, 2.5kg",
     "price" : 17900
 },
 {
     "id" : 5,
     "title" : "토마토",
-    "imgurl" : "images/fruit/vfruit4.jpg",
+    "imgurl" : "images/fruit/vfruit5.jpg",
     "content" : "탱글하고 아삭한 완숙 찰토마토, 1kg",
     "price" : 13900
 },
 {
     "id" : 6,
     "title" : "샤인머스켓",
-    "imgurl" : "images/fruit/fruit5.jpg",
+    "imgurl" : "images/fruit/fruit6.jpg",
     "content" : "고당도 명장 샤인머스켓, 800g",
     "price" : 11900
 },
 {
     "id" : 7,
     "title" : "망고",
-    "imgurl" : "images/fruit/fruit6.jpg",
+    "imgurl" : "images/fruit/fruit7.jpg",
     "content" : "젤라또처럼 꾸덕하고 달콤한 골드망고, 2kg",
     "price" : 49900
 },
 {
     "id" : 8,
     "title" : "바나나",
-    "imgurl" : "images/fruit/fruit7s.jpg",
+    "imgurl" : "images/fruit/fruit8.jpg",
     "content" : "Dole 스위티오 바나나, 1.2kg",
     "price" : 4400
 }
